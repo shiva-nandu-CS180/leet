@@ -43,4 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/snk-git-hub/leet/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1975-maximum-matrix-sum](https://github.com/snk-git-hub/leet/tree/master/1975-maximum-matrix-sum) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/snk-git-hub/leet/tree/master/1975-maximum-matrix-sum) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/snk-git-hub/leet/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
